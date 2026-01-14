@@ -1,0 +1,22 @@
+{
+  "filters": "Product Filters",
+  "search": "Search",
+  "search_products": "Search products...",
+  "min_price": "Min Price",
+  "max_price": "Max Price",
+  "min": "Min",
+  "max": "Max",
+  "category": "Category",
+  "all_categories": "All Categories",
+  "in_stock_only": "In Stock Only",
+  "login": "Login",
+  "register": "Register",
+  "logout": "Logout",
+  "cart": "Cart",
+  "products": "Products",
+  "profile": "Profile",
+  "admin_panel": "Admin Panel",
+  "orders": "Orders",
+  "favorites": "Favorites",
+  "home": "Home"
+} 
