@@ -327,7 +327,7 @@ export default function PromotionModal({
                             <div className="text-white/90 text-sm font-medium truncate">{product.name}</div>
                             <div className="flex items-center space-x-4 text-xs text-white/60">
                               {product.categoryName && <span className="bg-white/10 px-2 py-1 rounded-full">{product.categoryName}</span>}
-                              {product.price && <span className="text-emerald-400 font-medium">{product.price.toLocaleString('ru-RU')} ₽</span>}
+                              {product.price && <span className="text-emerald-400 font-medium">{product.price.toLocaleString('ru-RU')} $</span>}
                             </div>
                           </div>
                         </label>

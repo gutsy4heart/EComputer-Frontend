@@ -115,7 +115,7 @@ export const getDiscountedPrice = (
 };
 
 export const formatPrice = (price: number): string => {
-  return `${price.toFixed(2)} ₽`;
+  return `${price.toFixed(2)} $`;
 };
 
 export const formatSavings = (savings: number): string => {

@@ -404,7 +404,7 @@ export default function AdminPromotionsPage() {
                                                      {activeTab === 'coupons' && (
                              <>
                                <td className="py-4 px-6 text-white font-medium">{(item as Coupon).code}</td>
-                               <td className="py-4 px-6 text-white font-medium">{(item as Coupon).discountAmount} ₽</td>
+                               <td className="py-4 px-6 text-white font-medium">{(item as Coupon).discountAmount} $</td>
                              </>
                            )}
                            
